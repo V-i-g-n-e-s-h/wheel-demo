@@ -4,13 +4,13 @@ import setuptools
 #     long_description = fh.read()
 
 setuptools.setup(
-    name='Vishnupriya',
-    version='0.0.2',
-    author='VP',
-    author_email='vishnu.priya@innoboon.com',
+    name='Wheel_demo',
+    version='0.0.1',
+    author='Vignesh',
+    author_email='kannanvignesh4@gmail.com',
     description='Testing installation of Package',
     long_description="long_description",
-    url='https://github.com/VishnuPriyaIB/test',
+    url='https://github.com/V-i-g-n-e-s-h/wheel-demo',
     license='MIT',
     packages=[],
 )
